@@ -1,1 +1,1 @@
-# Educational Documents for MJB and GOWIN related projects
+# Educational documents for MJB and GOWIN related projects
