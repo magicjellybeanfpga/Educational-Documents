@@ -1,0 +1,38 @@
+[
+ {
+  "InstFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu_template.v",
+  "InstLine" : 9,
+  "InstName" : "Gowin_EMPU_Template",
+  "ModuleFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu_template.v",
+  "ModuleLine" : 9,
+  "ModuleName" : "Gowin_EMPU_Template",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu_template.v",
+    "InstLine" : 30,
+    "InstName" : "u_Gowin_PLLVR",
+    "ModuleFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_pllvr/gowin_pllvr.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_PLLVR"
+   },
+   {
+    "InstFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu_template.v",
+    "InstLine" : 35,
+    "InstName" : "u_Gowin_EMPU_Top",
+    "ModuleFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu/gowin_empu.v",
+    "ModuleLine" : 441,
+    "ModuleName" : "Gowin_EMPU_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu/gowin_empu.v",
+      "InstLine" : 456,
+      "InstName" : "Gowin_EMPU_inst",
+      "ModuleFile" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu/gowin_empu.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~Gowin_EMPU.Gowin_EMPU_Top"
+     }
+    ]
+   }
+  ]
+ }
+]

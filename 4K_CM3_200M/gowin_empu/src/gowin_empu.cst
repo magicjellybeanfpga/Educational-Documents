@@ -1,0 +1,22 @@
+
+//DK_START_GW1NSR4C_QN48P V1.1
+//GW1NSR-LV4CQN48PC7/I6
+//GW1NSR-4C
+
+//MCU system clock
+IO_LOC "sys_clk" 22;//F_CLK
+IO_PORT "sys_clk" IO_TYPE=LVCMOS18;
+
+//MCU system reset
+IO_LOC "reset_n" 23;//KEY2
+IO_PORT "reset_n" IO_TYPE=LVCMOS18;
+
+//LED
+IO_LOC "led" 33;//LED1
+IO_PORT "led" IO_TYPE=LVCMOS25;
+
+//UART0
+IO_LOC "uart0_rxd" 20;//UART_RXD
+IO_LOC "uart0_txd" 19;//UART_TXD
+IO_PORT "uart0_rxd" IO_TYPE=LVCMOS18;
+IO_PORT "uart0_txd" IO_TYPE=LVCMOS18;

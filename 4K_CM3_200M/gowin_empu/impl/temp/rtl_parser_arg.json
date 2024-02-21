@@ -1,0 +1,25 @@
+{
+ "Device" : "GW1NSR-4C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu/gowin_empu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_empu_template.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/liukai/Desktop/gowin_empu/src/gowin_pllvr/gowin_pllvr.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+  "src"
+ ],
+ "LoopLimit" : 1999,
+ "ResultFile" : "C:/Users/liukai/Desktop/gowin_empu/impl/temp/rtl_parser.result",
+ "Top" : "Gowin_EMPU_Template",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_2008"
+}

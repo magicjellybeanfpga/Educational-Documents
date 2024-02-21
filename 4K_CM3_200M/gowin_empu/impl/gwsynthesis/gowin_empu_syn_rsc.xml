@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="Gowin_EMPU_Template" T_Register="15(0)" T_Lut="25(0)" T_Bsram="2(0)">
+    <SubModule name="u_Gowin_PLLVR"/>
+    <SubModule name="u_Gowin_EMPU_Top" Register="15" Lut="25" Bsram="2" T_Register="15(15)" T_Lut="25(25)" T_Bsram="2(2)"/>
+</Module>

@@ -1,0 +1,14 @@
+-d C:\Users\liukai\Desktop\gowin_empu\impl\gwsynthesis\gowin_empu.vg
+-p GW1NSR-4C-QFN48P-7
+-pn GW1NSR-LV4CQN48PC7/I6
+-cst C:\Users\liukai\Desktop\gowin_empu\src\gowin_empu.cst
+-cfg C:\Users\liukai\Desktop\gowin_empu\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-place_option 2
+-route_option 2
+-correct_hold 1
+-route_maxfan 23

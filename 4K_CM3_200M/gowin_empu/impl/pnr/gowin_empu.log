@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\liukai\Desktop\gowin_empu\impl\gwsynthesis\gowin_empu.vg"
+Parsing netlist file "C:\Users\liukai\Desktop\gowin_empu\impl\gwsynthesis\gowin_empu.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\liukai\Desktop\gowin_empu\src\gowin_empu.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\liukai\Desktop\gowin_empu\impl\pnr\gowin_empu.power.html" completed
+Generate file "C:\Users\liukai\Desktop\gowin_empu\impl\pnr\gowin_empu.pin.html" completed
+Generate file "C:\Users\liukai\Desktop\gowin_empu\impl\pnr\gowin_empu.rpt.html" completed
+Generate file "C:\Users\liukai\Desktop\gowin_empu\impl\pnr\gowin_empu.rpt.txt" completed
+Generate file "C:\Users\liukai\Desktop\gowin_empu\impl\pnr\gowin_empu.tr.html" completed
+Thu Jan 11 08:33:42 2024
+
